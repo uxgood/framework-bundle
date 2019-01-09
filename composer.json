@@ -1,0 +1,14 @@
+{
+    "name": "uxgood/mini-framework-bundle",
+    "description": "Symfony MiniFrameworkBundle",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "UxGood",
+            "email": "uxgood.org@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
