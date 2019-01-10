@@ -1,7 +1,7 @@
 {
-    "name": "uxgood/mini-framework-bundle",
+    "name": "uxgood/framework-bundle",
     "type": "symfony-bundle",
-    "homepage": "https://github.com/uxgood/mini-framework-bundle",
+    "homepage": "https://github.com/uxgood/framework-bundle",
     "description": "Minimal Symfony FrameworkBundle",
     "license": "MIT",
     "authors": [

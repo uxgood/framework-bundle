@@ -1,11 +1,11 @@
-MiniFrameworkBundle
+Minimal Symfony FrameworkBundle
 ==============
 
-[![Build Status](https://secure.travis-ci.org/uxgood/mini-framework-bundle.svg?branch=master)](http://travis-ci.org/uxgood/mini-framework-bundle) [![Latest Stable Version](https://poser.pugx.org/uxgood/mini-framework-bundle/v/stable.svg)](https://packagist.org/packages/uxgood/mini-framework-bundle) [![Total Downloads](https://poser.pugx.org/uxgood/mini-framework-bundle/downloads.svg)](https://packagist.org/packages/uxgood/mini-framework-bundle) [![Latest Unstable Version](https://poser.pugx.org/uxgood/mini-framework-bundle/v/unstable.svg)](https://packagist.org/packages/uxgood/mini-framework-bundle) [![License](https://poser.pugx.org/uxgood/mini-framework-bundle/license.svg)](https://packagist.org/packages/uxgood/mini-framework-bundle)
+[![Build Status](https://secure.travis-ci.org/uxgood/framework-bundle.svg?branch=master)](http://travis-ci.org/uxgood/framework-bundle) [![Latest Stable Version](https://poser.pugx.org/uxgood/framework-bundle/v/stable.svg)](https://packagist.org/packages/uxgood/framework-bundle) [![Total Downloads](https://poser.pugx.org/uxgood/framework-bundle/downloads.svg)](https://packagist.org/packages/uxgood/framework-bundle) [![Latest Unstable Version](https://poser.pugx.org/uxgood/framework-bundle/v/unstable.svg)](https://packagist.org/packages/uxgood/framework-bundle) [![License](https://poser.pugx.org/uxgood/framework-bundle/license.svg)](https://packagist.org/packages/uxgood/framework-bundle)
 
-The MiniFrameworkBundle defines the minimal framework configuration
+The Minimal Symfony FrameworkBundle defines the minimal framework configuration
 
-> __Note__: the MiniFrameworkBundle defines no cache
+> __Note__: ...
 
 Installation
 ------------
