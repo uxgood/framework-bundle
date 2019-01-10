@@ -2,7 +2,7 @@
     "name": "uxgood/mini-framework-bundle",
     "type": "symfony-bundle",
     "homepage": "https://github.com/uxgood/mini-framework-bundle",
-    "description": "Symfony MiniFrameworkBundle",
+    "description": "Minimal Symfony FrameworkBundle",
     "license": "MIT",
     "authors": [
         {
@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "UxGood\\Bundle\\MiniFrameworkBundle\\": ""
+            "UxGood\\Bundle\\FrameworkBundle\\": ""
         },
         "exclude-from-classmap": [
             "/Tests/"
@@ -27,7 +27,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "UxGood\\Bundle\\MiniFrameworkBundle\\Tests\\": "Tests/"
+            "UxGood\\Bundle\\FrameworkBundle\\Tests\\": "Tests/"
         }
     },
     "minimum-stability": "dev",
